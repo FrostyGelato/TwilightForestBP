@@ -1,0 +1,16 @@
+//bridge-file-version: #2
+{
+	"format_version:": 1.1,
+	"minecraft:item": {
+		"description": {
+			"identifier": "tf:raw_meef"
+		},
+		"components": {
+			"minecraft:use_duration": 32,
+			"minecraft:food": {
+				"nutrition": 2,
+				"saturation_modifier": "low"
+			}
+		}
+	}
+}

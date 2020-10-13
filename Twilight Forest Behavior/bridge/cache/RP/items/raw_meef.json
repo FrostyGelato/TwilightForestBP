@@ -1,0 +1,136 @@
+{
+	"file_path": "/Users/joshuafan/Code/Scripting/bridge/games/com.mojang/development_resource_packs/Twilight Forest Resource/items/raw_meef.json",
+	"file_type": "client_item",
+	"format_version": 1,
+	"file_uuid": "962b71ad_fc68_4ad1_a43d_0c3158e3bf73",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.10",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": 1.1,
+					"minecraft:item": {
+						"description": {
+							"identifier": "tf:raw_meef",
+							"category": "Nature"
+						},
+						"components": {
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.rawFood"
+							},
+							"minecraft:icon": {
+								"texture": "meef_raw"
+							},
+							"minecraft:use_animation": "eat",
+							"minecraft:render_offsets": "meats",
+							"minecraft:display_name": {}
+						}
+					}
+				},
+				"key": "minecraft:item",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "tf:raw_meef",
+								"category": "Nature"
+							},
+							"components": {
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.rawFood"
+								},
+								"minecraft:icon": {
+									"texture": "meef_raw"
+								},
+								"minecraft:use_animation": "eat",
+								"minecraft:render_offsets": "meats",
+								"minecraft:display_name": {}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "tf:raw_meef",
+							"category": "Nature"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "tf:raw_meef",
+								"category": "Nature"
+							},
+							"components": {
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.rawFood"
+								},
+								"minecraft:icon": {
+									"texture": "meef_raw"
+								},
+								"minecraft:use_animation": "eat",
+								"minecraft:render_offsets": "meats",
+								"minecraft:display_name": {}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"key": "minecraft:creative_category",
+								"is_minified": true,
+								"children": {
+									"parent": "itemGroup.name.rawFood"
+								}
+							},
+							{
+								"open": {
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.rawFood"
+									},
+									"minecraft:icon": {
+										"texture": "meef_raw"
+									},
+									"minecraft:use_animation": "eat",
+									"minecraft:render_offsets": "meats",
+									"minecraft:display_name": {}
+								},
+								"key": "minecraft:icon",
+								"is_minified": true,
+								"children": {
+									"texture": "meef_raw"
+								}
+							},
+							{
+								"open": {
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.rawFood"
+									},
+									"minecraft:icon": {
+										"texture": "meef_raw"
+									},
+									"minecraft:use_animation": "eat",
+									"minecraft:render_offsets": "meats",
+									"minecraft:display_name": {}
+								},
+								"data": "eat",
+								"key": "minecraft:use_animation"
+							},
+							{
+								"data": "meats",
+								"key": "minecraft:render_offsets"
+							},
+							{
+								"key": "minecraft:display_name",
+								"is_minified": true,
+								"children": {}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

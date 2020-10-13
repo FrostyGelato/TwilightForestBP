@@ -22,7 +22,7 @@
 	"item": {
 		"BP/items/raw_venison.json": {
 			"identifiers": [
-				"tf:raw_venison"
+				"tf:raw_meef"
 			],
 			"custom_commands": []
 		},
@@ -34,13 +34,25 @@
 		},
 		"BP/items/cooked_venison.json": {
 			"identifiers": [
-				"tf:cooked_venison"
+				"tf:cooked_meef"
 			],
 			"custom_commands": []
 		},
 		"BP/items/maze_wafer.json": {
 			"identifiers": [
 				"tf:maze_wafer"
+			],
+			"custom_commands": []
+		},
+		"BP/items/cooked_meef.json": {
+			"identifiers": [
+				"tf:cooked_meef"
+			],
+			"custom_commands": []
+		},
+		"BP/items/raw_meef.json": {
+			"identifiers": [
+				"tf:raw_meef"
 			],
 			"custom_commands": []
 		}
@@ -58,6 +70,14 @@
 			"tags": [
 				"crafting_table"
 			]
+		},
+		"BP/recipes/furnace_meef.json": {
+			"tags": [
+				"furnace",
+				"smoker",
+				"campfire",
+				"soul_campfire"
+			]
 		}
 	},
 	"block": {
@@ -71,7 +91,7 @@
 		},
 		"BP/blocks/mangrove_log.json": {
 			"identifiers": [
-				"tf:mangrove_log"
+				"tf:towerwood_planks"
 			],
 			"events": [],
 			"recipe_tags": [],
@@ -80,6 +100,14 @@
 		"BP/blocks/twilight_oak_leaves.json": {
 			"identifiers": [
 				"tf:twilight_oak_leaves"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_components": []
+		},
+		"BP/blocks/towerwood_planks.json": {
+			"identifiers": [
+				"tf:towerwood_planks"
 			],
 			"events": [],
 			"recipe_tags": [],

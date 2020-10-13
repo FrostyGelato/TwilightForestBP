@@ -1,9 +1,9 @@
 {
-	"file_path": "/Users/joshuafan/Code/Scripting/bridge/games/com.mojang/development_resource_packs/Twilight Forest/blocks.json",
+	"file_path": "/Users/joshuafan/Code/Scripting/bridge/games/com.mojang/development_resource_packs/Twilight Forest Resource/blocks.json",
 	"file_type": "client_block",
 	"format_version": 1,
 	"file_uuid": "ab0ff1b6_3375_4ab8_8a55_528bd0ca16f7",
-	"file_version": 1,
+	"file_version": 3,
 	"cache_content": {
 		"children": [
 			{
@@ -37,6 +37,10 @@
 							"side": "mangrove_log_side",
 							"down": "mangrove_log_top"
 						}
+					},
+					"tf:towerwood_planks": {
+						"sound": "wood",
+						"textures": "towerwood_planks"
 					}
 				},
 				"key": "tf:twilight_oak_log",
@@ -86,6 +90,10 @@
 							"side": "mangrove_log_side",
 							"down": "mangrove_log_top"
 						}
+					},
+					"tf:towerwood_planks": {
+						"sound": "wood",
+						"textures": "towerwood_planks"
 					}
 				},
 				"key": "tf:mangrove_log",
@@ -112,6 +120,41 @@
 						}
 					}
 				]
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"tf:twilight_oak_log": {
+						"sound": "wood",
+						"textures": {
+							"up": "twilight_oak_log_top",
+							"side": "twilight_oak_log_side",
+							"down": "twilight_oak_log_top"
+						}
+					},
+					"tf:mangrove_log": {
+						"sound": "wood",
+						"textures": {
+							"up": "mangrove_log_top",
+							"side": "mangrove_log_side",
+							"down": "mangrove_log_top"
+						}
+					},
+					"tf:towerwood_planks": {
+						"sound": "wood",
+						"textures": "towerwood_planks"
+					}
+				},
+				"key": "tf:towerwood_planks",
+				"is_minified": true,
+				"children": {
+					"sound": "wood",
+					"textures": "towerwood_planks"
+				}
 			}
 		]
 	}

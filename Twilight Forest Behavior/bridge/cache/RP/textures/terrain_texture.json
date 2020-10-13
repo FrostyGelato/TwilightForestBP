@@ -3,7 +3,7 @@
 	"file_type": "terrain_texture",
 	"format_version": 1,
 	"file_uuid": "c941537a_3457_4141_93b7_79b0b08ffd2c",
-	"file_version": 3,
+	"file_version": 4,
 	"cache_content": {
 		"children": [
 			{
@@ -43,6 +43,9 @@
 						},
 						"leaves": {
 							"textures": "textures/blocks/leaves_twilight_oak"
+						},
+						"towerwood_planks": {
+							"textures": "textures/blocks/planks_towerwood"
 						}
 					}
 				},
@@ -64,6 +67,9 @@
 							},
 							"leaves": {
 								"textures": "textures/blocks/leaves_twilight_oak"
+							},
+							"towerwood_planks": {
+								"textures": "textures/blocks/planks_towerwood"
 							}
 						},
 						"key": "twilight_oak_log_side",
@@ -88,6 +94,9 @@
 							},
 							"leaves": {
 								"textures": "textures/blocks/leaves_twilight_oak"
+							},
+							"towerwood_planks": {
+								"textures": "textures/blocks/planks_towerwood"
 							}
 						},
 						"key": "twilight_oak_log_top",
@@ -112,6 +121,9 @@
 							},
 							"leaves": {
 								"textures": "textures/blocks/leaves_twilight_oak"
+							},
+							"towerwood_planks": {
+								"textures": "textures/blocks/planks_towerwood"
 							}
 						},
 						"key": "mangrove_log_top",
@@ -136,6 +148,9 @@
 							},
 							"leaves": {
 								"textures": "textures/blocks/leaves_twilight_oak"
+							},
+							"towerwood_planks": {
+								"textures": "textures/blocks/planks_towerwood"
 							}
 						},
 						"key": "mangrove_log_side",
@@ -160,12 +175,42 @@
 							},
 							"leaves": {
 								"textures": "textures/blocks/leaves_twilight_oak"
+							},
+							"towerwood_planks": {
+								"textures": "textures/blocks/planks_towerwood"
 							}
 						},
 						"key": "leaves",
 						"is_minified": true,
 						"children": {
 							"textures": "textures/blocks/leaves_twilight_oak"
+						}
+					},
+					{
+						"open": {
+							"twilight_oak_log_side": {
+								"textures": "textures/blocks/log_twilight_oak"
+							},
+							"twilight_oak_log_top": {
+								"textures": "textures/blocks/log_twilight_oak_top"
+							},
+							"mangrove_log_top": {
+								"textures": "textures/blocks/log_mangrove_top"
+							},
+							"mangrove_log_side": {
+								"textures": "textures/blocks/log_mangrove"
+							},
+							"leaves": {
+								"textures": "textures/blocks/leaves_twilight_oak"
+							},
+							"towerwood_planks": {
+								"textures": "textures/blocks/planks_towerwood"
+							}
+						},
+						"key": "towerwood_planks",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/planks_towerwood"
 						}
 					}
 				]

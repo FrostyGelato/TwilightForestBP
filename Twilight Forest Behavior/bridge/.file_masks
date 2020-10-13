@@ -43,6 +43,26 @@
 						}
 					}
 				}
+			},
+			"556b8f65_09b0_477f_9415_80e553afe2b9": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"f3f66a22_a109_41db_b516_521082f10bbe": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
 			}
 		}
 	},
@@ -107,6 +127,24 @@
 		"data": {}
 	},
 	"RP/biomes_client.json": {
+		"data": {}
+	},
+	"BP/blocks/towerwood_planks.json": {
+		"data": {}
+	},
+	"BP/items/cooked_meef.json": {
+		"data": {}
+	},
+	"BP/items/raw_meef.json": {
+		"data": {}
+	},
+	"BP/recipes/furnace_meef.json": {
+		"data": {}
+	},
+	"RP/items/cooked_meef.json": {
+		"data": {}
+	},
+	"RP/items/raw_meef.json": {
 		"data": {}
 	}
 }

@@ -1,0 +1,112 @@
+{
+	"file_path": "/Users/joshuafan/Code/Scripting/bridge/games/com.mojang/development_behavior_packs/Twilight Forest Behavior/items/raw_meef.json",
+	"file_type": "item",
+	"format_version": 1,
+	"file_uuid": "f3f66a22_a109_41db_b516_521082f10bbe",
+	"file_version": 2,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version:": 1.1,
+					"minecraft:item": {
+						"description": {
+							"identifier": "tf:raw_meef"
+						},
+						"components": {
+							"minecraft:use_duration": 32,
+							"minecraft:food": {
+								"nutrition": 2,
+								"saturation_modifier": "low"
+							}
+						}
+					}
+				},
+				"data": "1.10",
+				"key": "format_version:"
+			},
+			{
+				"open": {
+					"format_version:": 1.1,
+					"minecraft:item": {
+						"description": {
+							"identifier": "tf:raw_meef"
+						},
+						"components": {
+							"minecraft:use_duration": 32,
+							"minecraft:food": {
+								"nutrition": 2,
+								"saturation_modifier": "low"
+							}
+						}
+					}
+				},
+				"key": "minecraft:item",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "tf:raw_meef"
+							},
+							"components": {
+								"minecraft:use_duration": 32,
+								"minecraft:food": {
+									"nutrition": 2,
+									"saturation_modifier": "low"
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "tf:raw_meef"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "tf:raw_meef"
+							},
+							"components": {
+								"minecraft:use_duration": 32,
+								"minecraft:food": {
+									"nutrition": 2,
+									"saturation_modifier": "low"
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"open": {
+									"minecraft:use_duration": 32,
+									"minecraft:food": {
+										"nutrition": 2,
+										"saturation_modifier": "low"
+									}
+								},
+								"data": "32",
+								"key": "minecraft:use_duration"
+							},
+							{
+								"open": {
+									"minecraft:use_duration": 32,
+									"minecraft:food": {
+										"nutrition": 2,
+										"saturation_modifier": "low"
+									}
+								},
+								"key": "minecraft:food",
+								"is_minified": true,
+								"children": {
+									"nutrition": 2,
+									"saturation_modifier": "low"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

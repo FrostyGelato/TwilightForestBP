@@ -1,0 +1,17 @@
+//bridge-file-version: #1
+{
+	"format_version": 1.12,
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "tf:furnace_meef"
+		},
+		"tags": [
+			"furnace",
+			"smoker",
+			"campfire",
+			"soul_campfire"
+		],
+		"input": "tf:raw_meef",
+		"output": "tf:cooked_meef"
+	}
+}
