@@ -3,7 +3,7 @@
 	"file_type": "terrain_texture",
 	"format_version": 1,
 	"file_uuid": "c941537a_3457_4141_93b7_79b0b08ffd2c",
-	"file_version": 2,
+	"file_version": 3,
 	"cache_content": {
 		"children": [
 			{
@@ -30,19 +30,19 @@
 					"num_mip_levels": 4,
 					"texture_data": {
 						"twilight_oak_log_side": {
-							"textures": "textures/blocks/twilight_oak_log_side"
+							"textures": "textures/blocks/log_twilight_oak"
 						},
 						"twilight_oak_log_top": {
-							"textures": "textures/blocks/twilight_oak_log_top"
+							"textures": "textures/blocks/log_twilight_oak_top"
 						},
 						"mangrove_log_top": {
-							"textures": "textures/blocks/mangrove_log_top"
+							"textures": "textures/blocks/log_mangrove_top"
 						},
 						"mangrove_log_side": {
-							"textures": "textures/blocks/mangrove_log_side"
+							"textures": "textures/blocks/log_mangrove"
 						},
 						"leaves": {
-							"textures": "textures/blocks/leaves_oak"
+							"textures": "textures/blocks/leaves_twilight_oak"
 						}
 					}
 				},
@@ -51,121 +51,121 @@
 					{
 						"open": {
 							"twilight_oak_log_side": {
-								"textures": "textures/blocks/twilight_oak_log_side"
+								"textures": "textures/blocks/log_twilight_oak"
 							},
 							"twilight_oak_log_top": {
-								"textures": "textures/blocks/twilight_oak_log_top"
+								"textures": "textures/blocks/log_twilight_oak_top"
 							},
 							"mangrove_log_top": {
-								"textures": "textures/blocks/mangrove_log_top"
+								"textures": "textures/blocks/log_mangrove_top"
 							},
 							"mangrove_log_side": {
-								"textures": "textures/blocks/mangrove_log_side"
+								"textures": "textures/blocks/log_mangrove"
 							},
 							"leaves": {
-								"textures": "textures/blocks/leaves_oak"
+								"textures": "textures/blocks/leaves_twilight_oak"
 							}
 						},
 						"key": "twilight_oak_log_side",
 						"is_minified": true,
 						"children": {
-							"textures": "textures/blocks/twilight_oak_log_side"
+							"textures": "textures/blocks/log_twilight_oak"
 						}
 					},
 					{
 						"open": {
 							"twilight_oak_log_side": {
-								"textures": "textures/blocks/twilight_oak_log_side"
+								"textures": "textures/blocks/log_twilight_oak"
 							},
 							"twilight_oak_log_top": {
-								"textures": "textures/blocks/twilight_oak_log_top"
+								"textures": "textures/blocks/log_twilight_oak_top"
 							},
 							"mangrove_log_top": {
-								"textures": "textures/blocks/mangrove_log_top"
+								"textures": "textures/blocks/log_mangrove_top"
 							},
 							"mangrove_log_side": {
-								"textures": "textures/blocks/mangrove_log_side"
+								"textures": "textures/blocks/log_mangrove"
 							},
 							"leaves": {
-								"textures": "textures/blocks/leaves_oak"
+								"textures": "textures/blocks/leaves_twilight_oak"
 							}
 						},
 						"key": "twilight_oak_log_top",
 						"is_minified": true,
 						"children": {
-							"textures": "textures/blocks/twilight_oak_log_top"
+							"textures": "textures/blocks/log_twilight_oak_top"
 						}
 					},
 					{
 						"open": {
 							"twilight_oak_log_side": {
-								"textures": "textures/blocks/twilight_oak_log_side"
+								"textures": "textures/blocks/log_twilight_oak"
 							},
 							"twilight_oak_log_top": {
-								"textures": "textures/blocks/twilight_oak_log_top"
+								"textures": "textures/blocks/log_twilight_oak_top"
 							},
 							"mangrove_log_top": {
-								"textures": "textures/blocks/mangrove_log_top"
+								"textures": "textures/blocks/log_mangrove_top"
 							},
 							"mangrove_log_side": {
-								"textures": "textures/blocks/mangrove_log_side"
+								"textures": "textures/blocks/log_mangrove"
 							},
 							"leaves": {
-								"textures": "textures/blocks/leaves_oak"
+								"textures": "textures/blocks/leaves_twilight_oak"
 							}
 						},
 						"key": "mangrove_log_top",
 						"is_minified": true,
 						"children": {
-							"textures": "textures/blocks/mangrove_log_top"
+							"textures": "textures/blocks/log_mangrove_top"
 						}
 					},
 					{
 						"open": {
 							"twilight_oak_log_side": {
-								"textures": "textures/blocks/twilight_oak_log_side"
+								"textures": "textures/blocks/log_twilight_oak"
 							},
 							"twilight_oak_log_top": {
-								"textures": "textures/blocks/twilight_oak_log_top"
+								"textures": "textures/blocks/log_twilight_oak_top"
 							},
 							"mangrove_log_top": {
-								"textures": "textures/blocks/mangrove_log_top"
+								"textures": "textures/blocks/log_mangrove_top"
 							},
 							"mangrove_log_side": {
-								"textures": "textures/blocks/mangrove_log_side"
+								"textures": "textures/blocks/log_mangrove"
 							},
 							"leaves": {
-								"textures": "textures/blocks/leaves_oak"
+								"textures": "textures/blocks/leaves_twilight_oak"
 							}
 						},
 						"key": "mangrove_log_side",
 						"is_minified": true,
 						"children": {
-							"textures": "textures/blocks/mangrove_log_side"
+							"textures": "textures/blocks/log_mangrove"
 						}
 					},
 					{
 						"open": {
 							"twilight_oak_log_side": {
-								"textures": "textures/blocks/twilight_oak_log_side"
+								"textures": "textures/blocks/log_twilight_oak"
 							},
 							"twilight_oak_log_top": {
-								"textures": "textures/blocks/twilight_oak_log_top"
+								"textures": "textures/blocks/log_twilight_oak_top"
 							},
 							"mangrove_log_top": {
-								"textures": "textures/blocks/mangrove_log_top"
+								"textures": "textures/blocks/log_mangrove_top"
 							},
 							"mangrove_log_side": {
-								"textures": "textures/blocks/mangrove_log_side"
+								"textures": "textures/blocks/log_mangrove"
 							},
 							"leaves": {
-								"textures": "textures/blocks/leaves_oak"
+								"textures": "textures/blocks/leaves_twilight_oak"
 							}
 						},
 						"key": "leaves",
 						"is_minified": true,
 						"children": {
-							"textures": "textures/blocks/leaves_oak"
+							"textures": "textures/blocks/leaves_twilight_oak"
 						}
 					}
 				]

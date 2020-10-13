@@ -63,7 +63,7 @@
 	"block": {
 		"BP/blocks/twilight_oak_log.json": {
 			"identifiers": [
-				"tf:twilight_oak_leaves"
+				"tf:twilight_oak_log"
 			],
 			"events": [],
 			"recipe_tags": [],
