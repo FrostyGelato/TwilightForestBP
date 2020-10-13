@@ -1,0 +1,154 @@
+{
+	"file_path": "/Users/joshuafan/Code/Scripting/bridge/games/com.mojang/development_behavior_packs/Twilight Forest/blocks/mangrove_log.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "899df27c_3d01_4b64_a6a2_04fa63a8c87b",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:block": {
+						"description": {
+							"identifier": "tf:mangrove_log"
+						},
+						"components": {
+							"minecraft:destroy_time": 5,
+							"minecraft:friction": 0.9,
+							"minecraft:block_light_emission": 0.9,
+							"minecraft:block_light_absorption": 0.9,
+							"minecraft:explosion_resistance": 0.2,
+							"minecraft:map_color": "#8A6D4F",
+							"minecraft:flammable": {
+								"burn_odds": 0.8,
+								"flame_odds": 0.9
+							}
+						}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "tf:mangrove_log"
+							},
+							"components": {
+								"minecraft:destroy_time": 5,
+								"minecraft:friction": 0.9,
+								"minecraft:block_light_emission": 0.9,
+								"minecraft:block_light_absorption": 0.9,
+								"minecraft:explosion_resistance": 0.2,
+								"minecraft:map_color": "#8A6D4F",
+								"minecraft:flammable": {
+									"burn_odds": 0.8,
+									"flame_odds": 0.9
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "tf:mangrove_log"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "tf:mangrove_log"
+							},
+							"components": {
+								"minecraft:destroy_time": 5,
+								"minecraft:friction": 0.9,
+								"minecraft:block_light_emission": 0.9,
+								"minecraft:block_light_absorption": 0.9,
+								"minecraft:explosion_resistance": 0.2,
+								"minecraft:map_color": "#8A6D4F",
+								"minecraft:flammable": {
+									"burn_odds": 0.8,
+									"flame_odds": 0.9
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"data": "5",
+								"key": "minecraft:destroy_time"
+							},
+							{
+								"data": "0.9",
+								"key": "minecraft:friction"
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 5,
+									"minecraft:friction": 0.9,
+									"minecraft:block_light_emission": 0.9,
+									"minecraft:block_light_absorption": 0.9,
+									"minecraft:explosion_resistance": 0.2,
+									"minecraft:map_color": "#8A6D4F",
+									"minecraft:flammable": {
+										"burn_odds": 0.8,
+										"flame_odds": 0.9
+									}
+								},
+								"data": "0.9",
+								"key": "minecraft:block_light_emission"
+							},
+							{
+								"data": "0.9",
+								"key": "minecraft:block_light_absorption"
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 5,
+									"minecraft:friction": 0.9,
+									"minecraft:block_light_emission": 0.9,
+									"minecraft:block_light_absorption": 0.9,
+									"minecraft:explosion_resistance": 0.2,
+									"minecraft:map_color": "#8A6D4F",
+									"minecraft:flammable": {
+										"burn_odds": 0.8,
+										"flame_odds": 0.9
+									}
+								},
+								"data": "0.2",
+								"key": "minecraft:explosion_resistance"
+							},
+							{
+								"data": "#8A6D4F",
+								"key": "minecraft:map_color"
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 5,
+									"minecraft:friction": 0.9,
+									"minecraft:block_light_emission": 0.9,
+									"minecraft:block_light_absorption": 0.9,
+									"minecraft:explosion_resistance": 0.2,
+									"minecraft:map_color": "#8A6D4F",
+									"minecraft:flammable": {
+										"burn_odds": 0.8,
+										"flame_odds": 0.9
+									}
+								},
+								"key": "minecraft:flammable",
+								"is_minified": true,
+								"children": {
+									"burn_odds": 0.8,
+									"flame_odds": 0.9
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

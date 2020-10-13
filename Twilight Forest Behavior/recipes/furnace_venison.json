@@ -1,0 +1,17 @@
+//bridge-file-version: #0
+{
+	"format_version": 1.12,
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "tf:furnace_venison"
+		},
+		"tags": [
+			"furnace",
+			"smoker",
+			"campfire",
+			"soul_campfire"
+		],
+		"input": "tf:raw_venison",
+		"output": "tf:cooked_venison"
+	}
+}

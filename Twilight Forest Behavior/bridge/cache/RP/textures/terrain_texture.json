@@ -1,0 +1,175 @@
+{
+	"file_path": "/Users/joshuafan/Code/Scripting/bridge/games/com.mojang/development_resource_packs/Twilight Forest Resource/textures/terrain_texture.json",
+	"file_type": "terrain_texture",
+	"format_version": 1,
+	"file_uuid": "c941537a_3457_4141_93b7_79b0b08ffd2c",
+	"file_version": 2,
+	"cache_content": {
+		"children": [
+			{
+				"data": "bridgeRP",
+				"key": "resource_pack_name"
+			},
+			{
+				"data": "atlas.terrain",
+				"key": "texture_name"
+			},
+			{
+				"data": "8",
+				"key": "padding"
+			},
+			{
+				"data": "4",
+				"key": "num_mip_levels"
+			},
+			{
+				"open": {
+					"resource_pack_name": "bridgeRP",
+					"texture_name": "atlas.terrain",
+					"padding": 8,
+					"num_mip_levels": 4,
+					"texture_data": {
+						"twilight_oak_log_side": {
+							"textures": "textures/blocks/twilight_oak_log_side"
+						},
+						"twilight_oak_log_top": {
+							"textures": "textures/blocks/twilight_oak_log_top"
+						},
+						"mangrove_log_top": {
+							"textures": "textures/blocks/mangrove_log_top"
+						},
+						"mangrove_log_side": {
+							"textures": "textures/blocks/mangrove_log_side"
+						},
+						"leaves": {
+							"textures": "textures/blocks/leaves_oak"
+						}
+					}
+				},
+				"key": "texture_data",
+				"children": [
+					{
+						"open": {
+							"twilight_oak_log_side": {
+								"textures": "textures/blocks/twilight_oak_log_side"
+							},
+							"twilight_oak_log_top": {
+								"textures": "textures/blocks/twilight_oak_log_top"
+							},
+							"mangrove_log_top": {
+								"textures": "textures/blocks/mangrove_log_top"
+							},
+							"mangrove_log_side": {
+								"textures": "textures/blocks/mangrove_log_side"
+							},
+							"leaves": {
+								"textures": "textures/blocks/leaves_oak"
+							}
+						},
+						"key": "twilight_oak_log_side",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/twilight_oak_log_side"
+						}
+					},
+					{
+						"open": {
+							"twilight_oak_log_side": {
+								"textures": "textures/blocks/twilight_oak_log_side"
+							},
+							"twilight_oak_log_top": {
+								"textures": "textures/blocks/twilight_oak_log_top"
+							},
+							"mangrove_log_top": {
+								"textures": "textures/blocks/mangrove_log_top"
+							},
+							"mangrove_log_side": {
+								"textures": "textures/blocks/mangrove_log_side"
+							},
+							"leaves": {
+								"textures": "textures/blocks/leaves_oak"
+							}
+						},
+						"key": "twilight_oak_log_top",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/twilight_oak_log_top"
+						}
+					},
+					{
+						"open": {
+							"twilight_oak_log_side": {
+								"textures": "textures/blocks/twilight_oak_log_side"
+							},
+							"twilight_oak_log_top": {
+								"textures": "textures/blocks/twilight_oak_log_top"
+							},
+							"mangrove_log_top": {
+								"textures": "textures/blocks/mangrove_log_top"
+							},
+							"mangrove_log_side": {
+								"textures": "textures/blocks/mangrove_log_side"
+							},
+							"leaves": {
+								"textures": "textures/blocks/leaves_oak"
+							}
+						},
+						"key": "mangrove_log_top",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/mangrove_log_top"
+						}
+					},
+					{
+						"open": {
+							"twilight_oak_log_side": {
+								"textures": "textures/blocks/twilight_oak_log_side"
+							},
+							"twilight_oak_log_top": {
+								"textures": "textures/blocks/twilight_oak_log_top"
+							},
+							"mangrove_log_top": {
+								"textures": "textures/blocks/mangrove_log_top"
+							},
+							"mangrove_log_side": {
+								"textures": "textures/blocks/mangrove_log_side"
+							},
+							"leaves": {
+								"textures": "textures/blocks/leaves_oak"
+							}
+						},
+						"key": "mangrove_log_side",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/mangrove_log_side"
+						}
+					},
+					{
+						"open": {
+							"twilight_oak_log_side": {
+								"textures": "textures/blocks/twilight_oak_log_side"
+							},
+							"twilight_oak_log_top": {
+								"textures": "textures/blocks/twilight_oak_log_top"
+							},
+							"mangrove_log_top": {
+								"textures": "textures/blocks/mangrove_log_top"
+							},
+							"mangrove_log_side": {
+								"textures": "textures/blocks/mangrove_log_side"
+							},
+							"leaves": {
+								"textures": "textures/blocks/leaves_oak"
+							}
+						},
+						"key": "leaves",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/leaves_oak"
+						}
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,108 @@
+{
+	"file_path": "/Users/joshuafan/Code/Scripting/bridge/games/com.mojang/development_resource_packs/Twilight Forest Resource/biomes_client.json",
+	"file_type": "client_biome",
+	"format_version": 1,
+	"file_uuid": "39fc14f4_1f2b_4f25_9173_0cb625e5523e",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"biomes": {
+						"default": {
+							"water_surface_color": "#44AFF5",
+							"water_surface_transparency": 0.65,
+							"water_fog_color": "#44AFF5",
+							"water_fog_distance": 15
+						},
+						"tf:twilight_forest": {
+							"water_surface_color": "#3071F8",
+							"water_fog_color": "#3071F8"
+						},
+						"tf:dense_twilight_forest": {
+							"water_surface_color": "#9567EB",
+							"water_fog_color": "#9567EB"
+						}
+					}
+				},
+				"key": "biomes",
+				"children": [
+					{
+						"open": {
+							"default": {
+								"water_surface_color": "#44AFF5",
+								"water_surface_transparency": 0.65,
+								"water_fog_color": "#44AFF5",
+								"water_fog_distance": 15
+							},
+							"tf:twilight_forest": {
+								"water_surface_color": "#3071F8",
+								"water_fog_color": "#3071F8"
+							},
+							"tf:dense_twilight_forest": {
+								"water_surface_color": "#9567EB",
+								"water_fog_color": "#9567EB"
+							}
+						},
+						"key": "default",
+						"is_minified": true,
+						"children": {
+							"water_surface_color": "#44AFF5",
+							"water_surface_transparency": 0.65,
+							"water_fog_color": "#44AFF5",
+							"water_fog_distance": 15
+						}
+					},
+					{
+						"open": {
+							"default": {
+								"water_surface_color": "#44AFF5",
+								"water_surface_transparency": 0.65,
+								"water_fog_color": "#44AFF5",
+								"water_fog_distance": 15
+							},
+							"tf:twilight_forest": {
+								"water_surface_color": "#3071F8",
+								"water_fog_color": "#3071F8"
+							},
+							"tf:dense_twilight_forest": {
+								"water_surface_color": "#9567EB",
+								"water_fog_color": "#9567EB"
+							}
+						},
+						"key": "tf:twilight_forest",
+						"is_minified": true,
+						"children": {
+							"water_surface_color": "#3071F8",
+							"water_fog_color": "#3071F8"
+						}
+					},
+					{
+						"open": {
+							"default": {
+								"water_surface_color": "#44AFF5",
+								"water_surface_transparency": 0.65,
+								"water_fog_color": "#44AFF5",
+								"water_fog_distance": 15
+							},
+							"tf:twilight_forest": {
+								"water_surface_color": "#3071F8",
+								"water_fog_color": "#3071F8"
+							},
+							"tf:dense_twilight_forest": {
+								"water_surface_color": "#9567EB",
+								"water_fog_color": "#9567EB"
+							}
+						},
+						"key": "tf:dense_twilight_forest",
+						"is_minified": true,
+						"children": {
+							"water_surface_color": "#9567EB",
+							"water_fog_color": "#9567EB"
+						}
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,142 @@
+{
+	"file_path": "/Users/joshuafan/Code/Scripting/bridge/games/com.mojang/development_behavior_packs/Twilight Forest/blocks/twilight_oak_log.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "ffb69e8b_b584_4914_b565_60e3d1218665",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:block": {
+						"description": {
+							"identifier": "tf:twilight_oak_log"
+						},
+						"components": {
+							"minecraft:destroy_time": 4,
+							"minecraft:friction": 0,
+							"minecraft:block_light_emission": 0,
+							"minecraft:block_light_absorption": 0,
+							"minecraft:explosion_resistance": 2,
+							"minecraft:map_color": "#863E0F",
+							"minecraft:flammable": {
+								"burn_odds": 0.5,
+								"flame_odds": 0.9
+							}
+						}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "tf:twilight_oak_log"
+							},
+							"components": {
+								"minecraft:destroy_time": 4,
+								"minecraft:friction": 0,
+								"minecraft:block_light_emission": 0,
+								"minecraft:block_light_absorption": 0,
+								"minecraft:explosion_resistance": 2,
+								"minecraft:map_color": "#863E0F",
+								"minecraft:flammable": {
+									"burn_odds": 0.5,
+									"flame_odds": 0.9
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "tf:twilight_oak_log"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "tf:twilight_oak_log"
+							},
+							"components": {
+								"minecraft:destroy_time": 4,
+								"minecraft:friction": 0,
+								"minecraft:block_light_emission": 0,
+								"minecraft:block_light_absorption": 0,
+								"minecraft:explosion_resistance": 2,
+								"minecraft:map_color": "#863E0F",
+								"minecraft:flammable": {
+									"burn_odds": 0.5,
+									"flame_odds": 0.9
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"data": "4",
+								"key": "minecraft:destroy_time"
+							},
+							{
+								"data": "0.0",
+								"key": "minecraft:friction"
+							},
+							{
+								"data": "0.0",
+								"key": "minecraft:block_light_emission"
+							},
+							{
+								"data": "0.0",
+								"key": "minecraft:block_light_absorption"
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 4,
+									"minecraft:friction": 0,
+									"minecraft:block_light_emission": 0,
+									"minecraft:block_light_absorption": 0,
+									"minecraft:explosion_resistance": 2,
+									"minecraft:map_color": "#863E0F",
+									"minecraft:flammable": {
+										"burn_odds": 0.5,
+										"flame_odds": 0.9
+									}
+								},
+								"data": "2",
+								"key": "minecraft:explosion_resistance"
+							},
+							{
+								"data": "#863E0F",
+								"key": "minecraft:map_color"
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 4,
+									"minecraft:friction": 0,
+									"minecraft:block_light_emission": 0,
+									"minecraft:block_light_absorption": 0,
+									"minecraft:explosion_resistance": 2,
+									"minecraft:map_color": "#863E0F",
+									"minecraft:flammable": {
+										"burn_odds": 0.5,
+										"flame_odds": 0.9
+									}
+								},
+								"key": "minecraft:flammable",
+								"is_minified": true,
+								"children": {
+									"burn_odds": 0.5,
+									"flame_odds": 0.9
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

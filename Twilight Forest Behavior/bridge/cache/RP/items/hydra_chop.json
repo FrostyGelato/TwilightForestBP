@@ -1,0 +1,181 @@
+{
+	"file_path": "/Users/joshuafan/Code/Scripting/bridge/games/com.mojang/development_resource_packs/Twilight Forest/items/hydra_chops.json",
+	"file_type": "client_item",
+	"format_version": 1,
+	"file_uuid": "776f50d6_b48e_4f5c_b0bb_a6abb275e91b",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.10",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": 1.1,
+					"minecraft:item": {
+						"description": {
+							"identifier": "tf:hydra_chop",
+							"category": "Nature"
+						},
+						"components": {
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.cookedFood"
+							},
+							"minecraft:icon": {
+								"texture": "hydra_chop"
+							},
+							"minecraft:use_animation": "eat",
+							"minecraft:hover_text_color": "aqua",
+							"minecraft:render_offsets": "meats",
+							"minecraft:display_name": {}
+						}
+					}
+				},
+				"key": "minecraft:item",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "tf:hydra_chop",
+								"category": "Nature"
+							},
+							"components": {
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.cookedFood"
+								},
+								"minecraft:icon": {
+									"texture": "hydra_chop"
+								},
+								"minecraft:use_animation": "eat",
+								"minecraft:hover_text_color": "aqua",
+								"minecraft:render_offsets": "meats",
+								"minecraft:display_name": {}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "tf:hydra_chop",
+							"category": "Nature"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "tf:hydra_chop",
+								"category": "Nature"
+							},
+							"components": {
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.cookedFood"
+								},
+								"minecraft:icon": {
+									"texture": "hydra_chop"
+								},
+								"minecraft:use_animation": "eat",
+								"minecraft:hover_text_color": "aqua",
+								"minecraft:render_offsets": "meats",
+								"minecraft:display_name": {}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"open": {
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.cookedFood"
+									},
+									"minecraft:icon": {
+										"texture": "hydra_chop"
+									},
+									"minecraft:use_animation": "eat",
+									"minecraft:hover_text_color": "aqua",
+									"minecraft:render_offsets": "meats",
+									"minecraft:display_name": {}
+								},
+								"key": "minecraft:creative_category",
+								"is_minified": true,
+								"children": {
+									"parent": "itemGroup.name.cookedFood"
+								}
+							},
+							{
+								"open": {
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.cookedFood"
+									},
+									"minecraft:icon": {
+										"texture": "hydra_chop"
+									},
+									"minecraft:use_animation": "eat",
+									"minecraft:hover_text_color": "aqua",
+									"minecraft:render_offsets": "meats",
+									"minecraft:display_name": {}
+								},
+								"key": "minecraft:icon",
+								"is_minified": true,
+								"children": {
+									"texture": "hydra_chop"
+								}
+							},
+							{
+								"open": {
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.cookedFood"
+									},
+									"minecraft:icon": {
+										"texture": "hydra_chop"
+									},
+									"minecraft:use_animation": "eat",
+									"minecraft:hover_text_color": "aqua",
+									"minecraft:render_offsets": "meats",
+									"minecraft:display_name": {}
+								},
+								"data": "eat",
+								"key": "minecraft:use_animation"
+							},
+							{
+								"open": {
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.cookedFood"
+									},
+									"minecraft:icon": {
+										"texture": "hydra_chop"
+									},
+									"minecraft:use_animation": "eat",
+									"minecraft:hover_text_color": "aqua",
+									"minecraft:render_offsets": "meats",
+									"minecraft:display_name": {}
+								},
+								"data": "aqua",
+								"key": "minecraft:hover_text_color"
+							},
+							{
+								"open": {
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.cookedFood"
+									},
+									"minecraft:icon": {
+										"texture": "hydra_chop"
+									},
+									"minecraft:use_animation": "eat",
+									"minecraft:hover_text_color": "aqua",
+									"minecraft:render_offsets": "meats",
+									"minecraft:display_name": {}
+								},
+								"data": "meats",
+								"key": "minecraft:render_offsets"
+							},
+							{
+								"key": "minecraft:display_name",
+								"is_minified": true,
+								"children": {}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

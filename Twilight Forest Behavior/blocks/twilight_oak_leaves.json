@@ -1,0 +1,21 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.0",
+	"minecraft:block": {
+		"description": {
+			"identifier": "tf:twilight_oak_leaves"
+		},
+		"components": {
+			"minecraft:destroy_time": 1,
+			"minecraft:friction": 0.5,
+			"minecraft:block_light_emission": 0,
+			"minecraft:block_light_absorption": 0,
+			"minecraft:explosion_resistance": 1,
+			"minecraft:map_color": "#1C7E0B",
+			"minecraft:flammable": {
+				"burn_odds": 1,
+				"flame_odds": 1
+			}
+		}
+	}
+}

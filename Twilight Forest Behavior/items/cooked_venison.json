@@ -1,0 +1,16 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.10.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "tf:cooked_venison"
+		},
+		"components": {
+			"minecraft:use_duration": 32,
+			"minecraft:food": {
+				"nutrition": 8,
+				"saturation_modifier": "good"
+			}
+		}
+	}
+}

@@ -1,0 +1,204 @@
+{
+	"file_path": "/Users/joshuafan/Code/Scripting/bridge/games/com.mojang/development_behavior_packs/Twilight Forest/manifest.json",
+	"file_type": "manifest_bp",
+	"format_version": 1,
+	"file_uuid": "8272602a_2a21_4f16_84ef_c85fbf6e18d3",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"data": "2",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": 2,
+					"header": {
+						"name": "Twilight Forest",
+						"description": "pack.description",
+						"uuid": "f65510c0-4899-4cc4-830b-239c98ee9022",
+						"version": [
+							0,
+							0,
+							1
+						],
+						"min_engine_version": [
+							1,
+							13,
+							0
+						]
+					},
+					"modules": [
+						{
+							"type": "data",
+							"uuid": "957bd70d-d32e-4171-b685-7b3f5d9712f1",
+							"version": [
+								0,
+								0,
+								1
+							]
+						}
+					],
+					"dependencies": [
+						{
+							"version": [
+								0,
+								0,
+								1
+							],
+							"uuid": "21d270a4-984a-417a-963b-cd11ceda332d"
+						}
+					]
+				},
+				"key": "header",
+				"is_minified": true,
+				"children": {
+					"name": "Twilight Forest",
+					"description": "pack.description",
+					"uuid": "f65510c0-4899-4cc4-830b-239c98ee9022",
+					"version": [
+						0,
+						0,
+						1
+					],
+					"min_engine_version": [
+						1,
+						13,
+						0
+					]
+				}
+			},
+			{
+				"open": {
+					"format_version": 2,
+					"header": {
+						"name": "Twilight Forest",
+						"description": "pack.description",
+						"uuid": "f65510c0-4899-4cc4-830b-239c98ee9022",
+						"version": [
+							0,
+							0,
+							1
+						],
+						"min_engine_version": [
+							1,
+							13,
+							0
+						]
+					},
+					"modules": [
+						{
+							"type": "data",
+							"uuid": "957bd70d-d32e-4171-b685-7b3f5d9712f1",
+							"version": [
+								0,
+								0,
+								1
+							]
+						}
+					],
+					"dependencies": [
+						{
+							"version": [
+								0,
+								0,
+								1
+							],
+							"uuid": "21d270a4-984a-417a-963b-cd11ceda332d"
+						}
+					]
+				},
+				"key": "modules",
+				"is_minified": true,
+				"children": [
+					{
+						"type": "data",
+						"uuid": "957bd70d-d32e-4171-b685-7b3f5d9712f1",
+						"version": [
+							0,
+							0,
+							1
+						]
+					}
+				]
+			},
+			{
+				"open": {
+					"format_version": 2,
+					"header": {
+						"name": "Twilight Forest",
+						"description": "pack.description",
+						"uuid": "f65510c0-4899-4cc4-830b-239c98ee9022",
+						"version": [
+							0,
+							0,
+							1
+						],
+						"min_engine_version": [
+							1,
+							13,
+							0
+						]
+					},
+					"modules": [
+						{
+							"type": "data",
+							"uuid": "957bd70d-d32e-4171-b685-7b3f5d9712f1",
+							"version": [
+								0,
+								0,
+								1
+							]
+						}
+					],
+					"dependencies": [
+						{
+							"version": [
+								0,
+								0,
+								1
+							],
+							"uuid": "21d270a4-984a-417a-963b-cd11ceda332d"
+						}
+					]
+				},
+				"key": "dependencies",
+				"children": [
+					{
+						"children": [
+							{
+								"open": {
+									"version": [
+										0,
+										0,
+										1
+									],
+									"uuid": "21d270a4-984a-417a-963b-cd11ceda332d"
+								},
+								"key": "version",
+								"is_minified": true,
+								"children": [
+									0,
+									0,
+									1
+								]
+							},
+							{
+								"open": {
+									"version": [
+										0,
+										0,
+										1
+									],
+									"uuid": "21d270a4-984a-417a-963b-cd11ceda332d"
+								},
+								"data": "21d270a4-984a-417a-963b-cd11ceda332d",
+								"key": "uuid"
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

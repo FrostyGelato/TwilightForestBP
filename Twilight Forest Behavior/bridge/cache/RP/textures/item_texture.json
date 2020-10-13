@@ -1,0 +1,162 @@
+{
+	"file_path": "/Users/joshuafan/Code/Scripting/bridge/games/com.mojang/development_resource_packs/Twilight Forest/textures/item_texture.json",
+	"file_type": "item_texture",
+	"format_version": 1,
+	"file_uuid": "a100d59b_a309_41c9_bd79_4ed5341724c8",
+	"file_version": 3,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"resource_pack_name": "vanilla",
+					"texture_name": "atlas.items",
+					"texture_data": {
+						"venison_cooked": {
+							"textures": "textures/items/venison_cooked"
+						},
+						"hydra_chop": {
+							"textures": "textures/items/hydra_chops"
+						},
+						"venison_raw": {
+							"textures": "textures/items/venison_raw"
+						},
+						"maze_wafer": {
+							"textures": "textures/items/maze_wafer"
+						}
+					}
+				},
+				"data": "vanilla",
+				"key": "resource_pack_name"
+			},
+			{
+				"open": {
+					"resource_pack_name": "vanilla",
+					"texture_name": "atlas.items",
+					"texture_data": {
+						"venison_cooked": {
+							"textures": "textures/items/venison_cooked"
+						},
+						"hydra_chop": {
+							"textures": "textures/items/hydra_chops"
+						},
+						"venison_raw": {
+							"textures": "textures/items/venison_raw"
+						},
+						"maze_wafer": {
+							"textures": "textures/items/maze_wafer"
+						}
+					}
+				},
+				"data": "atlas.items",
+				"key": "texture_name"
+			},
+			{
+				"open": {
+					"resource_pack_name": "vanilla",
+					"texture_name": "atlas.items",
+					"texture_data": {
+						"venison_cooked": {
+							"textures": "textures/items/venison_cooked"
+						},
+						"hydra_chop": {
+							"textures": "textures/items/hydra_chops"
+						},
+						"venison_raw": {
+							"textures": "textures/items/venison_raw"
+						},
+						"maze_wafer": {
+							"textures": "textures/items/maze_wafer"
+						}
+					}
+				},
+				"key": "texture_data",
+				"children": [
+					{
+						"open": {
+							"venison_cooked": {
+								"textures": "textures/items/venison_cooked"
+							},
+							"hydra_chop": {
+								"textures": "textures/items/hydra_chops"
+							},
+							"venison_raw": {
+								"textures": "textures/items/venison_raw"
+							},
+							"maze_wafer": {
+								"textures": "textures/items/maze_wafer"
+							}
+						},
+						"key": "venison_cooked",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/items/venison_cooked"
+						}
+					},
+					{
+						"open": {
+							"venison_cooked": {
+								"textures": "textures/items/venison_cooked"
+							},
+							"hydra_chop": {
+								"textures": "textures/items/hydra_chops"
+							},
+							"venison_raw": {
+								"textures": "textures/items/venison_raw"
+							},
+							"maze_wafer": {
+								"textures": "textures/items/maze_wafer"
+							}
+						},
+						"key": "hydra_chop",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/items/hydra_chops"
+						}
+					},
+					{
+						"open": {
+							"venison_cooked": {
+								"textures": "textures/items/venison_cooked"
+							},
+							"hydra_chop": {
+								"textures": "textures/items/hydra_chops"
+							},
+							"venison_raw": {
+								"textures": "textures/items/venison_raw"
+							},
+							"maze_wafer": {
+								"textures": "textures/items/maze_wafer"
+							}
+						},
+						"key": "venison_raw",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/items/venison_raw"
+						}
+					},
+					{
+						"open": {
+							"venison_cooked": {
+								"textures": "textures/items/venison_cooked"
+							},
+							"hydra_chop": {
+								"textures": "textures/items/hydra_chops"
+							},
+							"venison_raw": {
+								"textures": "textures/items/venison_raw"
+							},
+							"maze_wafer": {
+								"textures": "textures/items/maze_wafer"
+							}
+						},
+						"key": "maze_wafer",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/items/maze_wafer"
+						}
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,156 @@
+{
+	"file_path": "/Users/joshuafan/Code/Scripting/bridge/games/com.mojang/development_resource_packs/Twilight Forest/items/maze_wafer.json",
+	"file_type": "client_item",
+	"format_version": 1,
+	"file_uuid": "a76f5820_f661_4b44_a62a_16181b5727ff",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": 1.1,
+					"minecraft:item": {
+						"description": {
+							"identifier": "tf:maze_wafer",
+							"category": "Equipment"
+						},
+						"components": {
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.miscFood"
+							},
+							"minecraft:icon": {
+								"texture": "maze_wafer"
+							},
+							"minecraft:use_animation": "eat",
+							"minecraft:render_offsets": "stew",
+							"minecraft:display_name": {}
+						}
+					}
+				},
+				"data": "1.10",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": 1.1,
+					"minecraft:item": {
+						"description": {
+							"identifier": "tf:maze_wafer",
+							"category": "Equipment"
+						},
+						"components": {
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.miscFood"
+							},
+							"minecraft:icon": {
+								"texture": "maze_wafer"
+							},
+							"minecraft:use_animation": "eat",
+							"minecraft:render_offsets": "stew",
+							"minecraft:display_name": {}
+						}
+					}
+				},
+				"key": "minecraft:item",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "tf:maze_wafer",
+								"category": "Equipment"
+							},
+							"components": {
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.miscFood"
+								},
+								"minecraft:icon": {
+									"texture": "maze_wafer"
+								},
+								"minecraft:use_animation": "eat",
+								"minecraft:render_offsets": "stew",
+								"minecraft:display_name": {}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "tf:maze_wafer",
+							"category": "Equipment"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "tf:maze_wafer",
+								"category": "Equipment"
+							},
+							"components": {
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.miscFood"
+								},
+								"minecraft:icon": {
+									"texture": "maze_wafer"
+								},
+								"minecraft:use_animation": "eat",
+								"minecraft:render_offsets": "stew",
+								"minecraft:display_name": {}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"key": "minecraft:creative_category",
+								"is_minified": true,
+								"children": {
+									"parent": "itemGroup.name.miscFood"
+								}
+							},
+							{
+								"open": {
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.miscFood"
+									},
+									"minecraft:icon": {
+										"texture": "maze_wafer"
+									},
+									"minecraft:use_animation": "eat",
+									"minecraft:render_offsets": "stew",
+									"minecraft:display_name": {}
+								},
+								"key": "minecraft:icon",
+								"is_minified": true,
+								"children": {
+									"texture": "maze_wafer"
+								}
+							},
+							{
+								"data": "eat",
+								"key": "minecraft:use_animation"
+							},
+							{
+								"open": {
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.miscFood"
+									},
+									"minecraft:icon": {
+										"texture": "maze_wafer"
+									},
+									"minecraft:use_animation": "eat",
+									"minecraft:render_offsets": "stew",
+									"minecraft:display_name": {}
+								},
+								"data": "stew",
+								"key": "minecraft:render_offsets"
+							},
+							{
+								"key": "minecraft:display_name",
+								"is_minified": true,
+								"children": {}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

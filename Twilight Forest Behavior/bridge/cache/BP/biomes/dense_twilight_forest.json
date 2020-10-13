@@ -1,0 +1,416 @@
+{
+	"file_path": "/Users/joshuafan/Code/Scripting/bridge/games/com.mojang/development_behavior_packs/Twilight Forest Behavior/biomes/dense_twilight_forest.json",
+	"file_type": "biome",
+	"format_version": 1,
+	"file_uuid": "6c1062ad_b9c9_4722_9d9d_f4c98f8983d3",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.13.0",
+					"minecraft:biome": {
+						"description": {
+							"identifier": "tf:dense_twilight_forest"
+						},
+						"components": {
+							"minecraft:climate": {
+								"downfall": 0.9,
+								"snow_accumulation": [
+									0,
+									0.125
+								],
+								"temperature": 0.95
+							},
+							"minecraft:overworld_height": {
+								"noise_type": "default"
+							},
+							"minecraft:surface_parameters": {
+								"sea_floor_depth": 7,
+								"sea_floor_material": "minecraft:gravel",
+								"foundation_material": "minecraft:stone",
+								"mid_material": "minecraft:dirt",
+								"top_material": "minecraft:grass",
+								"sea_material": "minecraft:water"
+							},
+							"minecraft:overworld_generation_rules": {
+								"hills_transformation": "jungle_hills",
+								"mutate_transformation": "jungle_mutated",
+								"generate_for_climates": [
+									[
+										"medium",
+										1
+									]
+								]
+							},
+							"animal": {},
+							"jungle": {},
+							"monster": {},
+							"overworld": {},
+							"rare": {}
+						}
+					}
+				},
+				"data": "1.13.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.13.0",
+					"minecraft:biome": {
+						"description": {
+							"identifier": "tf:dense_twilight_forest"
+						},
+						"components": {
+							"minecraft:climate": {
+								"downfall": 0.9,
+								"snow_accumulation": [
+									0,
+									0.125
+								],
+								"temperature": 0.95
+							},
+							"minecraft:overworld_height": {
+								"noise_type": "default"
+							},
+							"minecraft:surface_parameters": {
+								"sea_floor_depth": 7,
+								"sea_floor_material": "minecraft:gravel",
+								"foundation_material": "minecraft:stone",
+								"mid_material": "minecraft:dirt",
+								"top_material": "minecraft:grass",
+								"sea_material": "minecraft:water"
+							},
+							"minecraft:overworld_generation_rules": {
+								"hills_transformation": "jungle_hills",
+								"mutate_transformation": "jungle_mutated",
+								"generate_for_climates": [
+									[
+										"medium",
+										1
+									]
+								]
+							},
+							"animal": {},
+							"jungle": {},
+							"monster": {},
+							"overworld": {},
+							"rare": {}
+						}
+					}
+				},
+				"key": "minecraft:biome",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "tf:dense_twilight_forest"
+							},
+							"components": {
+								"minecraft:climate": {
+									"downfall": 0.9,
+									"snow_accumulation": [
+										0,
+										0.125
+									],
+									"temperature": 0.95
+								},
+								"minecraft:overworld_height": {
+									"noise_type": "default"
+								},
+								"minecraft:surface_parameters": {
+									"sea_floor_depth": 7,
+									"sea_floor_material": "minecraft:gravel",
+									"foundation_material": "minecraft:stone",
+									"mid_material": "minecraft:dirt",
+									"top_material": "minecraft:grass",
+									"sea_material": "minecraft:water"
+								},
+								"minecraft:overworld_generation_rules": {
+									"hills_transformation": "jungle_hills",
+									"mutate_transformation": "jungle_mutated",
+									"generate_for_climates": [
+										[
+											"medium",
+											1
+										]
+									]
+								},
+								"animal": {},
+								"jungle": {},
+								"monster": {},
+								"overworld": {},
+								"rare": {}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "tf:dense_twilight_forest"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "tf:dense_twilight_forest"
+							},
+							"components": {
+								"minecraft:climate": {
+									"downfall": 0.9,
+									"snow_accumulation": [
+										0,
+										0.125
+									],
+									"temperature": 0.95
+								},
+								"minecraft:overworld_height": {
+									"noise_type": "default"
+								},
+								"minecraft:surface_parameters": {
+									"sea_floor_depth": 7,
+									"sea_floor_material": "minecraft:gravel",
+									"foundation_material": "minecraft:stone",
+									"mid_material": "minecraft:dirt",
+									"top_material": "minecraft:grass",
+									"sea_material": "minecraft:water"
+								},
+								"minecraft:overworld_generation_rules": {
+									"hills_transformation": "jungle_hills",
+									"mutate_transformation": "jungle_mutated",
+									"generate_for_climates": [
+										[
+											"medium",
+											1
+										]
+									]
+								},
+								"animal": {},
+								"jungle": {},
+								"monster": {},
+								"overworld": {},
+								"rare": {}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"open": {
+									"minecraft:climate": {
+										"downfall": 0.9,
+										"snow_accumulation": [
+											0,
+											0.125
+										],
+										"temperature": 0.95
+									},
+									"minecraft:overworld_height": {
+										"noise_type": "default"
+									},
+									"minecraft:surface_parameters": {
+										"sea_floor_depth": 7,
+										"sea_floor_material": "minecraft:gravel",
+										"foundation_material": "minecraft:stone",
+										"mid_material": "minecraft:dirt",
+										"top_material": "minecraft:grass",
+										"sea_material": "minecraft:water"
+									},
+									"minecraft:overworld_generation_rules": {
+										"hills_transformation": "jungle_hills",
+										"mutate_transformation": "jungle_mutated",
+										"generate_for_climates": [
+											[
+												"medium",
+												1
+											]
+										]
+									},
+									"animal": {},
+									"jungle": {},
+									"monster": {},
+									"overworld": {},
+									"rare": {}
+								},
+								"key": "minecraft:climate",
+								"is_minified": true,
+								"children": {
+									"downfall": 0.9,
+									"snow_accumulation": [
+										0,
+										0.125
+									],
+									"temperature": 0.95
+								}
+							},
+							{
+								"open": {
+									"minecraft:climate": {
+										"downfall": 0.9,
+										"snow_accumulation": [
+											0,
+											0.125
+										],
+										"temperature": 0.95
+									},
+									"minecraft:overworld_height": {
+										"noise_type": "default"
+									},
+									"minecraft:surface_parameters": {
+										"sea_floor_depth": 7,
+										"sea_floor_material": "minecraft:gravel",
+										"foundation_material": "minecraft:stone",
+										"mid_material": "minecraft:dirt",
+										"top_material": "minecraft:grass",
+										"sea_material": "minecraft:water"
+									},
+									"minecraft:overworld_generation_rules": {
+										"hills_transformation": "jungle_hills",
+										"mutate_transformation": "jungle_mutated",
+										"generate_for_climates": [
+											[
+												"medium",
+												1
+											]
+										]
+									},
+									"animal": {},
+									"jungle": {},
+									"monster": {},
+									"overworld": {},
+									"rare": {}
+								},
+								"key": "minecraft:overworld_height",
+								"is_minified": true,
+								"children": {
+									"noise_type": "default"
+								}
+							},
+							{
+								"open": {
+									"minecraft:climate": {
+										"downfall": 0.9,
+										"snow_accumulation": [
+											0,
+											0.125
+										],
+										"temperature": 0.95
+									},
+									"minecraft:overworld_height": {
+										"noise_type": "default"
+									},
+									"minecraft:surface_parameters": {
+										"sea_floor_depth": 7,
+										"sea_floor_material": "minecraft:gravel",
+										"foundation_material": "minecraft:stone",
+										"mid_material": "minecraft:dirt",
+										"top_material": "minecraft:grass",
+										"sea_material": "minecraft:water"
+									},
+									"minecraft:overworld_generation_rules": {
+										"hills_transformation": "jungle_hills",
+										"mutate_transformation": "jungle_mutated",
+										"generate_for_climates": [
+											[
+												"medium",
+												1
+											]
+										]
+									},
+									"animal": {},
+									"jungle": {},
+									"monster": {},
+									"overworld": {},
+									"rare": {}
+								},
+								"key": "minecraft:surface_parameters",
+								"is_minified": true,
+								"children": {
+									"sea_floor_depth": 7,
+									"sea_floor_material": "minecraft:gravel",
+									"foundation_material": "minecraft:stone",
+									"mid_material": "minecraft:dirt",
+									"top_material": "minecraft:grass",
+									"sea_material": "minecraft:water"
+								}
+							},
+							{
+								"open": {
+									"minecraft:climate": {
+										"downfall": 0.9,
+										"snow_accumulation": [
+											0,
+											0.125
+										],
+										"temperature": 0.95
+									},
+									"minecraft:overworld_height": {
+										"noise_type": "default"
+									},
+									"minecraft:surface_parameters": {
+										"sea_floor_depth": 7,
+										"sea_floor_material": "minecraft:gravel",
+										"foundation_material": "minecraft:stone",
+										"mid_material": "minecraft:dirt",
+										"top_material": "minecraft:grass",
+										"sea_material": "minecraft:water"
+									},
+									"minecraft:overworld_generation_rules": {
+										"hills_transformation": "jungle_hills",
+										"mutate_transformation": "jungle_mutated",
+										"generate_for_climates": [
+											[
+												"medium",
+												1
+											]
+										]
+									},
+									"animal": {},
+									"jungle": {},
+									"monster": {},
+									"overworld": {},
+									"rare": {}
+								},
+								"key": "minecraft:overworld_generation_rules",
+								"is_minified": true,
+								"children": {
+									"hills_transformation": "jungle_hills",
+									"mutate_transformation": "jungle_mutated",
+									"generate_for_climates": [
+										[
+											"medium",
+											1
+										]
+									]
+								}
+							},
+							{
+								"key": "animal",
+								"is_minified": true,
+								"children": {}
+							},
+							{
+								"key": "jungle",
+								"is_minified": true,
+								"children": {}
+							},
+							{
+								"key": "monster",
+								"is_minified": true,
+								"children": {}
+							},
+							{
+								"key": "overworld",
+								"is_minified": true,
+								"children": {}
+							},
+							{
+								"key": "rare",
+								"is_minified": true,
+								"children": {}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,53 @@
+//bridge-file-version: #2
+{
+	"format_version": "1.16.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "tf:hydra_chop"
+		},
+		"components": {
+			"minecraft:stacked_by_data": false,
+			"minecraft:use_duration": 32,
+			"minecraft:foil": false,
+			"minecraft:food": {
+				"nutrition": 18,
+				"saturation_modifier": "supernatural",
+				"can_always_eat": true,
+				"on_consume": {
+					"event": "consumed",
+					"target": "self"
+				},
+				"effects": [
+					{
+						"name": "regeneration",
+						"chance": 1,
+						"duration": 5,
+						"amplifier": 0
+					}
+				]
+			}
+		},
+		"events": {
+			"consumed": {
+				"sequence": [
+					{
+						"add_mob_effect": {
+							"effect": "regeneration",
+							"duration": 5,
+							"amplifier": 1,
+							"target": "holder"
+						}
+					},
+					{
+						"add_mob_effect": {
+							"effect": "absorption",
+							"duration": 120,
+							"amplifier": 0,
+							"target": "holder"
+						}
+					}
+				]
+			}
+		}
+	}
+}

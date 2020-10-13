@@ -1,0 +1,8 @@
+{
+	"file_path": "/Users/joshuafan/Code/Scripting/bridge/games/com.mojang/development_resource_packs/Twilight Forest/texts/en_US.lang",
+	"file_type": "client_lang",
+	"format_version": 0,
+	"file_uuid": "0bb638e9_5616_437a_85d5_2dd22ca40828",
+	"file_version": 5,
+	"cache_content": "pack.description=Twilight Forest Resource Pack\nitem.tf:cooked_venison.name=Cooked Venison\nitem.tf:raw_venison.name=Raw Venison\nitem.tf:hydra_chop.name=Hydra Chop\nitem.tf:maze_wafer.name=Maze Wafer"
+}

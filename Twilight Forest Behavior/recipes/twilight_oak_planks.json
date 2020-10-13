@@ -1,0 +1,27 @@
+//bridge-file-version: #0
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "tf:twilight_oak_planks"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"group": "planks",
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+				"item": "tf:twilight_oak_log",
+				"data": 0
+			}
+		},
+		"result": {
+			"item": "minecraft:planks",
+			"data": 0,
+			"count": 4
+		}
+	}
+}

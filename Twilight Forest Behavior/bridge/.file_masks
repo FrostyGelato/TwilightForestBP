@@ -1,0 +1,112 @@
+{
+	"BP/entities/player.json": {
+		"data": {}
+	},
+	"BP/animation_controllers/bridge/custom_item_behavior.json": {
+		"data": {
+			"1d43dcd5_f111_4ed9_8d65_6eca73b4f176": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"e8702812_3dfb_4f30_a051_3e7ff43f8997": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"fd87b87a_2a18_43d6_8358_3fc811560191": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"27bf9baf_3832_4346_a2c8_4634bf58f1d2": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			}
+		}
+	},
+	"RP/items/cooked_venison.json": {
+		"data": {}
+	},
+	"RP/textures/item_texture.json": {
+		"data": {}
+	},
+	"RP/manifest.json": {
+		"data": {}
+	},
+	"BP/manifest.json": {
+		"data": {}
+	},
+	"BP/items/raw_venison.json": {
+		"data": {}
+	},
+	"RP/items/raw_venison.json": {
+		"data": {}
+	},
+	"BP/recipes/furnace_venison.json": {
+		"data": {}
+	},
+	"BP/items/hydra_chop.json": {
+		"data": {}
+	},
+	"RP/items/hydra_chop.json": {
+		"data": {}
+	},
+	"BP/items/cooked_venison.json": {
+		"data": {}
+	},
+	"BP/items/maze_wafer.json": {
+		"data": {}
+	},
+	"RP/items/maze_wafer.json": {
+		"data": {}
+	},
+	"BP/blocks/twilight_oak_log.json": {
+		"data": {}
+	},
+	"RP/textures/terrain_texture.json": {
+		"data": {}
+	},
+	"RP/blocks.json": {
+		"data": {}
+	},
+	"BP/blocks/mangrove_log.json": {
+		"data": {}
+	},
+	"BP/biomes/dense_twilight_forest.json": {
+		"data": {}
+	},
+	"BP/biomes/twilight_forest.json": {
+		"data": {}
+	},
+	"BP/recipes/twilight_oak_planks.json": {
+		"data": {}
+	},
+	"BP/blocks/twilight_oak_leaves.json": {
+		"data": {}
+	},
+	"RP/biomes_client.json": {
+		"data": {}
+	}
+}

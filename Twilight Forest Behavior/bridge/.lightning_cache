@@ -1,0 +1,100 @@
+{
+	"entity": {
+		"BP/entities/player.json": {
+			"events": [
+				"minecraft:gain_bad_omen",
+				"minecraft:clear_add_bad_omen",
+				"minecraft:trigger_raid",
+				"minecraft:remove_raid_trigger"
+			],
+			"bridge_core_tags": [],
+			"identifiers": [
+				"minecraft:player"
+			],
+			"animation_references": [],
+			"families": [
+				"player"
+			],
+			"custom_commands": [],
+			"custom_components": []
+		}
+	},
+	"item": {
+		"BP/items/raw_venison.json": {
+			"identifiers": [
+				"tf:raw_venison"
+			],
+			"custom_commands": []
+		},
+		"BP/items/hydra_chop.json": {
+			"identifiers": [
+				"tf:hydra_chop"
+			],
+			"custom_commands": []
+		},
+		"BP/items/cooked_venison.json": {
+			"identifiers": [
+				"tf:cooked_venison"
+			],
+			"custom_commands": []
+		},
+		"BP/items/maze_wafer.json": {
+			"identifiers": [
+				"tf:maze_wafer"
+			],
+			"custom_commands": []
+		}
+	},
+	"recipe": {
+		"BP/recipes/furnace_venison.json": {
+			"tags": [
+				"furnace",
+				"smoker",
+				"campfire",
+				"soul_campfire"
+			]
+		},
+		"BP/recipes/twilight_oak_planks.json": {
+			"tags": [
+				"crafting_table"
+			]
+		}
+	},
+	"block": {
+		"BP/blocks/twilight_oak_log.json": {
+			"identifiers": [
+				"tf:twilight_oak_leaves"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_components": []
+		},
+		"BP/blocks/mangrove_log.json": {
+			"identifiers": [
+				"tf:mangrove_log"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_components": []
+		},
+		"BP/blocks/twilight_oak_leaves.json": {
+			"identifiers": [
+				"tf:twilight_oak_leaves"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_components": []
+		}
+	},
+	"biome": {
+		"BP/biomes/dense_twilight_forest.json": {
+			"tags": []
+		},
+		"BP/biomes/twilight_forest.json": {
+			"tags": [
+				"bee_habitat",
+				"minecraft:forced_features"
+			]
+		}
+	}
+}
