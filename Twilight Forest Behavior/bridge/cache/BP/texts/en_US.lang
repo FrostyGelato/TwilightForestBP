@@ -1,8 +1,8 @@
 {
-	"file_path": "/Users/joshuafan/Code/Scripting/bridge/games/com.mojang/development_behavior_packs/Twilight Forest/texts/en_US.lang",
+	"file_path": "/Users/joshuafan/Code/Scripting/bridge/games/com.mojang/development_behavior_packs/Twilight Forest Behavior/texts/en_US.lang",
 	"file_type": "lang",
 	"format_version": 0,
 	"file_uuid": "3938ca93_f082_458e_a938_e62ed3e98211",
-	"file_version": 0,
-	"cache_content": "pack.description=Twilight Forest Behavior Pack"
+	"file_version": 2,
+	"cache_content": "pack.description=Behavior Pack for Twilight Forest Bedrock Addon"
 }

@@ -1,9 +1,9 @@
 {
-	"file_path": "/Users/joshuafan/Code/Scripting/bridge/games/com.mojang/development_behavior_packs/Twilight Forest/manifest.json",
+	"file_path": "/Users/joshuafan/Code/Scripting/bridge/games/com.mojang/development_behavior_packs/Twilight Forest Behavior/manifest.json",
 	"file_type": "manifest_bp",
 	"format_version": 1,
 	"file_uuid": "8272602a_2a21_4f16_84ef_c85fbf6e18d3",
-	"file_version": 1,
+	"file_version": 2,
 	"cache_content": {
 		"children": [
 			{
@@ -14,7 +14,7 @@
 				"open": {
 					"format_version": 2,
 					"header": {
-						"name": "Twilight Forest",
+						"name": "Twilight Forest Behavior Pack",
 						"description": "pack.description",
 						"uuid": "f65510c0-4899-4cc4-830b-239c98ee9022",
 						"version": [
@@ -53,7 +53,7 @@
 				"key": "header",
 				"is_minified": true,
 				"children": {
-					"name": "Twilight Forest",
+					"name": "Twilight Forest Behavior Pack",
 					"description": "pack.description",
 					"uuid": "f65510c0-4899-4cc4-830b-239c98ee9022",
 					"version": [
@@ -72,7 +72,7 @@
 				"open": {
 					"format_version": 2,
 					"header": {
-						"name": "Twilight Forest",
+						"name": "Twilight Forest Behavior Pack",
 						"description": "pack.description",
 						"uuid": "f65510c0-4899-4cc4-830b-239c98ee9022",
 						"version": [
@@ -126,7 +126,7 @@
 				"open": {
 					"format_version": 2,
 					"header": {
-						"name": "Twilight Forest",
+						"name": "Twilight Forest Behavior Pack",
 						"description": "pack.description",
 						"uuid": "f65510c0-4899-4cc4-830b-239c98ee9022",
 						"version": [
