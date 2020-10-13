@@ -3,7 +3,7 @@
 	"file_type": "block",
 	"format_version": 1,
 	"file_uuid": "54509150_c60a_4fba_8668_5bd1dd0460fb",
-	"file_version": 3,
+	"file_version": 4,
 	"cache_content": {
 		"children": [
 			{
@@ -19,9 +19,6 @@
 						},
 						"components": {
 							"minecraft:destroy_time": 6,
-							"minecraft:friction": 0.5,
-							"minecraft:block_light_emission": 0,
-							"minecraft:block_light_absorption": 0,
 							"minecraft:explosion_resistance": 30,
 							"minecraft:map_color": "#8A6D4F",
 							"minecraft:flammable": {
@@ -40,9 +37,6 @@
 							},
 							"components": {
 								"minecraft:destroy_time": 6,
-								"minecraft:friction": 0.5,
-								"minecraft:block_light_emission": 0,
-								"minecraft:block_light_absorption": 0,
 								"minecraft:explosion_resistance": 30,
 								"minecraft:map_color": "#8A6D4F",
 								"minecraft:flammable": {
@@ -64,9 +58,6 @@
 							},
 							"components": {
 								"minecraft:destroy_time": 6,
-								"minecraft:friction": 0.5,
-								"minecraft:block_light_emission": 0,
-								"minecraft:block_light_absorption": 0,
 								"minecraft:explosion_resistance": 30,
 								"minecraft:map_color": "#8A6D4F",
 								"minecraft:flammable": {
@@ -80,9 +71,6 @@
 							{
 								"open": {
 									"minecraft:destroy_time": 6,
-									"minecraft:friction": 0.5,
-									"minecraft:block_light_emission": 0,
-									"minecraft:block_light_absorption": 0,
 									"minecraft:explosion_resistance": 30,
 									"minecraft:map_color": "#8A6D4F",
 									"minecraft:flammable": {
@@ -96,57 +84,6 @@
 							{
 								"open": {
 									"minecraft:destroy_time": 6,
-									"minecraft:friction": 0.5,
-									"minecraft:block_light_emission": 0,
-									"minecraft:block_light_absorption": 0,
-									"minecraft:explosion_resistance": 30,
-									"minecraft:map_color": "#8A6D4F",
-									"minecraft:flammable": {
-										"burn_odds": 0.1,
-										"flame_odds": 0.1
-									}
-								},
-								"data": "0.5",
-								"key": "minecraft:friction"
-							},
-							{
-								"open": {
-									"minecraft:destroy_time": 6,
-									"minecraft:friction": 0.5,
-									"minecraft:block_light_emission": 0,
-									"minecraft:block_light_absorption": 0,
-									"minecraft:explosion_resistance": 30,
-									"minecraft:map_color": "#8A6D4F",
-									"minecraft:flammable": {
-										"burn_odds": 0.1,
-										"flame_odds": 0.1
-									}
-								},
-								"data": "0",
-								"key": "minecraft:block_light_emission"
-							},
-							{
-								"open": {
-									"minecraft:destroy_time": 6,
-									"minecraft:friction": 0.5,
-									"minecraft:block_light_emission": 0,
-									"minecraft:block_light_absorption": 0,
-									"minecraft:explosion_resistance": 30,
-									"minecraft:map_color": "#8A6D4F",
-									"minecraft:flammable": {
-										"burn_odds": 0.1,
-										"flame_odds": 0.1
-									}
-								},
-								"data": "0",
-								"key": "minecraft:block_light_absorption"
-							},
-							{
-								"open": {
-									"minecraft:destroy_time": 6,
-									"minecraft:friction": 0.5,
-									"minecraft:block_light_emission": 0,
-									"minecraft:block_light_absorption": 0,
 									"minecraft:explosion_resistance": 30,
 									"minecraft:map_color": "#8A6D4F",
 									"minecraft:flammable": {
@@ -164,9 +101,6 @@
 							{
 								"open": {
 									"minecraft:destroy_time": 6,
-									"minecraft:friction": 0.5,
-									"minecraft:block_light_emission": 0,
-									"minecraft:block_light_absorption": 0,
 									"minecraft:explosion_resistance": 30,
 									"minecraft:map_color": "#8A6D4F",
 									"minecraft:flammable": {

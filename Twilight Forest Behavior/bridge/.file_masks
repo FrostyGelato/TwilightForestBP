@@ -63,6 +63,16 @@
 						}
 					}
 				}
+			},
+			"14058e70_48b5_455a_8b9d_60a4c20e10b5": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
 			}
 		}
 	},
@@ -145,6 +155,12 @@
 		"data": {}
 	},
 	"RP/items/raw_meef.json": {
+		"data": {}
+	},
+	"BP/items/meef_stroganoff.json": {
+		"data": {}
+	},
+	"RP/items/meef_stroganoff.json": {
 		"data": {}
 	}
 }

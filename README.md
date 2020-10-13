@@ -11,7 +11,7 @@ Open the project using bridge. and click package. Double-clicking the .mcpack fi
 
 ## Progress
 
-This project is in very early stages. Only a few blocks and items have been added.
+This project is in very early stages. Only a few blocks have been added. All the food (except Experiment 115) have been added.
 
 ## Contributing
 

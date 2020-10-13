@@ -1,4 +1,4 @@
-//bridge-file-version: #3
+//bridge-file-version: #4
 {
 	"format_version": "1.16.0",
 	"minecraft:block": {
@@ -7,9 +7,6 @@
 		},
 		"components": {
 			"minecraft:destroy_time": 6,
-			"minecraft:friction": 0.5,
-			"minecraft:block_light_emission": 0,
-			"minecraft:block_light_absorption": 0,
 			"minecraft:explosion_resistance": 30,
 			"minecraft:map_color": "#8A6D4F",
 			"minecraft:flammable": {

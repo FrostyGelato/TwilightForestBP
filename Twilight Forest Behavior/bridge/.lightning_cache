@@ -46,13 +46,19 @@
 		},
 		"BP/items/cooked_meef.json": {
 			"identifiers": [
-				"tf:cooked_meef"
+				"tf:meef_stroganoff"
 			],
 			"custom_commands": []
 		},
 		"BP/items/raw_meef.json": {
 			"identifiers": [
 				"tf:raw_meef"
+			],
+			"custom_commands": []
+		},
+		"BP/items/meef_stroganoff.json": {
+			"identifiers": [
+				"tf:meef_stroganoff"
 			],
 			"custom_commands": []
 		}
@@ -91,7 +97,7 @@
 		},
 		"BP/blocks/mangrove_log.json": {
 			"identifiers": [
-				"tf:towerwood_planks"
+				"tf:mangrove_log"
 			],
 			"events": [],
 			"recipe_tags": [],
